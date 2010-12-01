@@ -384,7 +384,7 @@
 255 255 255 -1 -1 14 1 #"\0"
 0 -1 1 #"\0"
 1.0 0 -1 -1 -1 -1 -1 -1 0 0 0 0 1 0 0.0 0.0 0.0 0.0 0.0 0.0 205 92 92
-255 255 255 -1 -1           0 6227 0 4 3 85
+255 255 255 -1 -1           0 6225 0 4 3 85
 (
  #";; The first three lines of this file were inserted by DrRacket. The"
  #"y record metadata"
@@ -3036,9 +3036,7 @@
 0 0 19 3 6 #"\"down\""
 0 0 23 3 1 #"]"
 0 0 68 3 1 #" "
-0 0 17 3 6 #"; may "
-0 0 17 3 11 #"be executed"
-0 0 17 3 10 #" by diver "
+0 0 17 3 27 #"; may be executed by diver "
 0 0 17 3 6 #"aliens"
 0 0 73 29 1 #"\n"
 0 0 73 3 7 #"       "
